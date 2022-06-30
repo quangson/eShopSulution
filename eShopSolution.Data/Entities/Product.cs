@@ -6,7 +6,7 @@ using System.Text;
 namespace eShopSolution.Data.Entities
 {
    
-    class Product
+    public class Product
     {
         
         public int Id { set; get; }
